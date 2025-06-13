@@ -19,18 +19,7 @@ pip install -r requirements.txt
 
 ```
 python power_analyzer.py <your_file.vcd> <voltage(V)> <frequency(Hz)> <capacitance(F)>
-```
-
-### Example
-
-```
-python power_analyzer.py sample.vcd 1.0 100000000 1e-14
-```
 
 ## Sample VCD
 
 A sample VCD file `sample.vcd` is included for testing.
-
-## Author
-
-Generated using ChatGPT 😉
